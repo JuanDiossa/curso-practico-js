@@ -73,6 +73,4 @@ function calcularAlturaTriangulo(lado1, lado2, base){
         const resultado = Math.sqrt(raizAltura);
         alert(`La atura del triangulo isoceles es ${resultado}`);
     }
-    
-
 }
